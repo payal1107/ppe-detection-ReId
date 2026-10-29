@@ -1,0 +1,8 @@
+ultralytics==8.4.120
+boxmot==25.0.0
+torch>=2.4
+torchvision>=0.19
+gradio==6.28.0
+numpy==2.2.6
+opencv-python==4.10.0.84
+imageio-ffmpeg==0.6.0
